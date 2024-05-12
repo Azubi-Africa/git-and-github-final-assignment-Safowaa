@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | Currency_Exchange_Rate_Analysis  |  Analyzes historical exchange rates from 2013 to 2023, focusing on trends, volatility, and correlations among major currencies using Python, pandas, and matplotlib. | [Link to repo](https://github.com/Safowaa/Currency_Exchange_Rate_Analysis.git) |
+| 2 | Python_Encryption_Decryption   |  A basic Python project that can encrypt and decrypt messages. | [Link to repo](https://github.com/Safowaa/Python_Encryption_Decryption.git)       |
+| 3 |  Product_Sales_and_Financial_Analysis| Analyzes sales data for various products, calculates net revenues, applies discounts, and estimates tax impacts, using Pandas in Python for financial insight. | [Link to repo](https://github.com/Safowaa/Product_Sales_and_Financial_Analysis.git)       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
